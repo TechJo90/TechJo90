@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TechJo90
+- 👋 Hi, I’m the Cozy Coder
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning how to become a generative engineer and Python
 - 💞️ I’m looking to collaborate on simple projects that help me understand coding

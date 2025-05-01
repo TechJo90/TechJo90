@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on simple projects that help me understand coding
 - 📫 How to reach me hello@rootedjo.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm new in tech!
+
 
 <!---
 TechJo90/TechJo90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
